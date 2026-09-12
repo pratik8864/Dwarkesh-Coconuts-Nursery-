@@ -1,0 +1,6 @@
+{
+  "name": "Dwarkesh Coconuts & Nursery",
+  "description": "Premium coconut plants, advance booking, live catalogue, receipts, and nursery admin management for Dwarkesh Coconuts & Nursery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
